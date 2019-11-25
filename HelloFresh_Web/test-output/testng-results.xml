@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="7" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Chrome is launched now]]>
+    </line>
+    <line>
+      <![CDATA[Chrome is launched now]]>
+    </line>
+    <line>
+      <![CDATA[Chrome is launched now]]>
+    </line>
+    <line>
+      <![CDATA[Browser is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Browser is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Browser is maximized]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to application url]]>
+    </line>
+    <line>
+      <![CDATA[New row has been read from CSV data file]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to application url]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to application url]]>
+    </line>
+    <line>
+      <![CDATA[New row has been read from CSV data file]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Sign In button]]>
+    </line>
+    <line>
+      <![CDATA[Typed in dynamically generated email address]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Create an account button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Sign In button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Sign In button]]>
+    </line>
+    <line>
+      <![CDATA[Selected Title]]>
+    </line>
+    <line>
+      <![CDATA[Typed in First Name]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Password]]>
+    </line>
+    <line>
+      <![CDATA[Selected Date of Birth]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Company]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Address]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Address-Line2]]>
+    </line>
+    <line>
+      <![CDATA[Typed in City]]>
+    </line>
+    <line>
+      <![CDATA[Selected State]]>
+    </line>
+    <line>
+      <![CDATA[Typed in PostCode]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Additional Information]]>
+    </line>
+    <line>
+      <![CDATA[Typed in HomePhone]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Sign In button after entering credentials]]>
+    </line>
+    <line>
+      <![CDATA[Typed in MobilePhone]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Sign In button after entering credentials]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Alias]]>
+    </line>
+    <line>
+      <![CDATA[All assertions completed]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Register button]]>
+    </line>
+    <line>
+      <![CDATA[All assertions completed]]>
+    </line>
+    <line>
+      <![CDATA[Logging out the LogIn Test Case session]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Women Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Sign Out button]]>
+    </line>
+    <line>
+      <![CDATA[New row has been read from CSV data file]]>
+    </line>
+    <line>
+      <![CDATA[Selected Dress by Name]]>
+    </line>
+    <line>
+      <![CDATA[Selected Dress Size]]>
+    </line>
+    <line>
+      <![CDATA[Selected Dress Color]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Add to Cart button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Sign In button]]>
+    </line>
+    <line>
+      <![CDATA[Typed in dynamically generated email address]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Create an account button]]>
+    </line>
+    <line>
+      <![CDATA[Selected Title]]>
+    </line>
+    <line>
+      <![CDATA[Typed in First Name]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Last Name]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Password]]>
+    </line>
+    <line>
+      <![CDATA[Selected Date of Birth]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Company]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Address]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Address-Line2]]>
+    </line>
+    <line>
+      <![CDATA[Typed in City]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Proceed to checkout button in pop-up]]>
+    </line>
+    <line>
+      <![CDATA[Selected State]]>
+    </line>
+    <line>
+      <![CDATA[Typed in PostCode]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Additional Information]]>
+    </line>
+    <line>
+      <![CDATA[Typed in HomePhone]]>
+    </line>
+    <line>
+      <![CDATA[Typed in MobilePhone]]>
+    </line>
+    <line>
+      <![CDATA[Typed in Alias]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Proceed to checkout button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Register button]]>
+    </line>
+    <line>
+      <![CDATA[All assertions completed]]>
+    </line>
+    <line>
+      <![CDATA[Accept Terms & conditions checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Sign Out button]]>
+    </line>
+    <line>
+      <![CDATA[Select Bankwire as payment option]]>
+    </line>
+    <line>
+      <![CDATA[Confirmed the order]]>
+    </line>
+    <line>
+      <![CDATA[All assertions completed]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Sign Out button]]>
+    </line>
+    <line>
+      <![CDATA[New row has been read from CSV data file]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Sign In button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Sign In button after entering credentials]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Women Tab]]>
+    </line>
+    <line>
+      <![CDATA[Selected Dress by Name]]>
+    </line>
+    <line>
+      <![CDATA[Selected Dress Size]]>
+    </line>
+    <line>
+      <![CDATA[Selected Dress Color]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Add to Cart button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Proceed to checkout button in pop-up]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Proceed to checkout button]]>
+    </line>
+    <line>
+      <![CDATA[Accept Terms & conditions checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Select Bankwire as payment option]]>
+    </line>
+    <line>
+      <![CDATA[Confirmed the order]]>
+    </line>
+    <line>
+      <![CDATA[All assertions completed]]>
+    </line>
+    <line>
+      <![CDATA[Clicked Sign Out button]]>
+    </line>
+  </reporter-output>
+  <suite name="Automation Practice test suite" duration-ms="93592" started-at="2019-11-21T17:47:00Z" finished-at="2019-11-21T17:48:34Z">
+    <groups>
+    </groups>
+    <test name="HF_task_1_Web" duration-ms="93592" started-at="2019-11-21T17:47:00Z" finished-at="2019-11-21T17:48:34Z">
+      <class name="HFWebPkg.CheckOut">
+        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:HFWebPkg.CheckOut@224edc67]" name="Setup" is-config="true" duration-ms="19375" started-at="2019-11-21T17:47:00Z" finished-at="2019-11-21T17:47:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://automationpractice.com/index.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome is launched now]]>
+            </line>
+            <line>
+              <![CDATA[Browser is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to application url]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="checkOut()[pri:0, instance:HFWebPkg.CheckOut@224edc67]" name="checkOut" duration-ms="63360" started-at="2019-11-21T17:47:20Z" finished-at="2019-11-21T17:48:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[New row has been read from CSV data file]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Sign In button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Sign In button after entering credentials]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Women Tab]]>
+            </line>
+            <line>
+              <![CDATA[Selected Dress by Name]]>
+            </line>
+            <line>
+              <![CDATA[Selected Dress Size]]>
+            </line>
+            <line>
+              <![CDATA[Selected Dress Color]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Add to Cart button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Proceed to checkout button in pop-up]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Proceed to checkout button]]>
+            </line>
+            <line>
+              <![CDATA[Accept Terms & conditions checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Select Bankwire as payment option]]>
+            </line>
+            <line>
+              <![CDATA[Confirmed the order]]>
+            </line>
+            <line>
+              <![CDATA[All assertions completed]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Sign Out button]]>
+            </line>
+            <line>
+              <![CDATA[New row has been read from CSV data file]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Sign In button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Sign In button after entering credentials]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Women Tab]]>
+            </line>
+            <line>
+              <![CDATA[Selected Dress by Name]]>
+            </line>
+            <line>
+              <![CDATA[Selected Dress Size]]>
+            </line>
+            <line>
+              <![CDATA[Selected Dress Color]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Add to Cart button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Proceed to checkout button in pop-up]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Proceed to checkout button]]>
+            </line>
+            <line>
+              <![CDATA[Accept Terms & conditions checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Select Bankwire as payment option]]>
+            </line>
+            <line>
+              <![CDATA[Confirmed the order]]>
+            </line>
+            <line>
+              <![CDATA[All assertions completed]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Sign Out button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkOut -->
+        <test-method status="PASS" signature="CaptureErrors(org.testng.ITestResult)[pri:0, instance:HFWebPkg.CheckOut@224edc67]" name="CaptureErrors" is-config="true" duration-ms="10828" started-at="2019-11-21T17:48:23Z" finished-at="2019-11-21T17:48:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkOut status=SUCCESS method=CheckOut.checkOut()[pri:0, instance:HFWebPkg.CheckOut@224edc67] output=New row has been read from CSV data file]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureErrors -->
+      </class> <!-- HFWebPkg.CheckOut -->
+      <class name="HFWebPkg.LogIn">
+        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:HFWebPkg.LogIn@4c70fda8]" name="Setup" is-config="true" duration-ms="18350" started-at="2019-11-21T17:47:00Z" finished-at="2019-11-21T17:47:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://automationpractice.com/index.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome is launched now]]>
+            </line>
+            <line>
+              <![CDATA[Browser is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to application url]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="logIn()[pri:0, instance:HFWebPkg.LogIn@4c70fda8]" name="logIn" duration-ms="9105" started-at="2019-11-21T17:47:19Z" finished-at="2019-11-21T17:47:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked Sign In button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Sign In button after entering credentials]]>
+            </line>
+            <line>
+              <![CDATA[All assertions completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method status="PASS" signature="CaptureErrors(org.testng.ITestResult)[pri:0, instance:HFWebPkg.LogIn@4c70fda8]" name="CaptureErrors" is-config="true" duration-ms="5562" started-at="2019-11-21T17:47:28Z" finished-at="2019-11-21T17:47:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logIn status=SUCCESS method=LogIn.logIn()[pri:0, instance:HFWebPkg.LogIn@4c70fda8] output=Clicked Sign In button]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Logging out the LogIn Test Case session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CaptureErrors -->
+      </class> <!-- HFWebPkg.LogIn -->
+      <class name="HFWebPkg.SignIn">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:HFWebPkg.SignIn@26be92ad]" name="setUp" is-config="true" duration-ms="235" started-at="2019-11-21T17:47:00Z" finished-at="2019-11-21T17:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Setup(java.lang.String, java.lang.String)[pri:0, instance:HFWebPkg.SignIn@26be92ad]" name="Setup" is-config="true" duration-ms="17713" started-at="2019-11-21T17:47:00Z" finished-at="2019-11-21T17:47:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://automationpractice.com/index.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome is launched now]]>
+            </line>
+            <line>
+              <![CDATA[Browser is maximized]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to application url]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="signIn()[pri:0, instance:HFWebPkg.SignIn@26be92ad]" name="signIn" duration-ms="29649" started-at="2019-11-21T17:47:18Z" finished-at="2019-11-21T17:47:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[New row has been read from CSV data file]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Sign In button]]>
+            </line>
+            <line>
+              <![CDATA[Typed in dynamically generated email address]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Create an account button]]>
+            </line>
+            <line>
+              <![CDATA[Selected Title]]>
+            </line>
+            <line>
+              <![CDATA[Typed in First Name]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Password]]>
+            </line>
+            <line>
+              <![CDATA[Selected Date of Birth]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Company]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Address]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Address-Line2]]>
+            </line>
+            <line>
+              <![CDATA[Typed in City]]>
+            </line>
+            <line>
+              <![CDATA[Selected State]]>
+            </line>
+            <line>
+              <![CDATA[Typed in PostCode]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Additional Information]]>
+            </line>
+            <line>
+              <![CDATA[Typed in HomePhone]]>
+            </line>
+            <line>
+              <![CDATA[Typed in MobilePhone]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Alias]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Register button]]>
+            </line>
+            <line>
+              <![CDATA[All assertions completed]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Sign Out button]]>
+            </line>
+            <line>
+              <![CDATA[New row has been read from CSV data file]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Sign In button]]>
+            </line>
+            <line>
+              <![CDATA[Typed in dynamically generated email address]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Create an account button]]>
+            </line>
+            <line>
+              <![CDATA[Selected Title]]>
+            </line>
+            <line>
+              <![CDATA[Typed in First Name]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Last Name]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Password]]>
+            </line>
+            <line>
+              <![CDATA[Selected Date of Birth]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Company]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Address]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Address-Line2]]>
+            </line>
+            <line>
+              <![CDATA[Typed in City]]>
+            </line>
+            <line>
+              <![CDATA[Selected State]]>
+            </line>
+            <line>
+              <![CDATA[Typed in PostCode]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Additional Information]]>
+            </line>
+            <line>
+              <![CDATA[Typed in HomePhone]]>
+            </line>
+            <line>
+              <![CDATA[Typed in MobilePhone]]>
+            </line>
+            <line>
+              <![CDATA[Typed in Alias]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Register button]]>
+            </line>
+            <line>
+              <![CDATA[All assertions completed]]>
+            </line>
+            <line>
+              <![CDATA[Clicked Sign Out button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="CaptureErrors(org.testng.ITestResult)[pri:0, instance:HFWebPkg.SignIn@26be92ad]" name="CaptureErrors" is-config="true" duration-ms="10861" started-at="2019-11-21T17:47:48Z" finished-at="2019-11-21T17:47:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signIn status=SUCCESS method=SignIn.signIn()[pri:0, instance:HFWebPkg.SignIn@26be92ad] output=New row has been read from CSV data file]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureErrors -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:HFWebPkg.SignIn@26be92ad]" name="tearDown" is-config="true" duration-ms="305" started-at="2019-11-21T17:48:34Z" finished-at="2019-11-21T17:48:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- HFWebPkg.SignIn -->
+    </test> <!-- HF_task_1_Web -->
+  </suite> <!-- Automation Practice test suite -->
+</testng-results>

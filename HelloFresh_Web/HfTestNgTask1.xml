@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Practice test suite" parallel="classes" thread-count="3">
+  <test name="HF_task_1_Web">
+   <parameter name="browser" value="chrome" />
+   <parameter name="url" value="http://automationpractice.com/index.php" />
+    <classes>
+      <class name="HFWebPkg.SignIn"/>
+      <class name="HFWebPkg.LogIn"/>
+      <class name="HFWebPkg.CheckOut"/>
+    </classes>
+  </test>
+</suite>

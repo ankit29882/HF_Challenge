@@ -1,0 +1,3 @@
+DressNameElement,Size,ColorElement
+"//a[@title='Faded Short Sleeve T-shirts']/ancestor::li",M,"//a[@name='Orange']"
+"//a[@title='Blouse']/ancestor::li",L,"//a[@name='Black']"
